@@ -1,0 +1,7 @@
+{
+    "jobs":[
+        {"title":"ux","id":1,"details":"lorem"},
+        {"title":"web","id":2,"details":"lorem"},
+        {"title":"vue","id":3,"details":"lorem"}
+        ]
+}
